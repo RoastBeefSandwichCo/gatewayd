@@ -18,8 +18,8 @@ Gatewayd's features include:
 
 ## Installation
 
-- Comprehensive [installation script](https://github.com/ripple/gatewayd/blob/master/doc/install.md) for Ubuntu
-- Comprehensive [installation script](https://github.com/ripple/gatewayd/blob/master/doc/installmac.md) for Mac
+- Comprehensive [installation guide](https://github.com/RoastBeefSandwichCo/gatewayd-installers) for use with Ubuntu Server 14.04, possibly 12.04
+
 
 ## Documentation
 
