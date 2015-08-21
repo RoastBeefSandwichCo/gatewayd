@@ -23,7 +23,7 @@ Gatewayd's features include:
 
 ## Documentation
 
-The [Ripple Dev Portal](https://ripple.com/build/gatewayd/) contains detailed information on Gatewayd and its APIs.
+The [gatewayd.md](https://github.com/RoastBeefSandwichCo/gatewayd/blob/master/gatewayd.md) contains detailed information on Gatewayd and its APIs.
 
 ## Dependencies
 
